@@ -1,11 +1,11 @@
 {
-    "alphabet.txt": {
-        "hash": "1c1b3e8a79dec28466cc7aa4fe076b974c64663704ba33f1f157e481199aaff0"
+    "bob.txt": {
+        "hash": "3d98a9892ea1e0d96a0da04ab93d068db7a499e0aa18049c0684601e1e045959"
     },
     "important_stuff.txt": {
-        "hash": "73639e921cdea975b9f2eff7d95d70db067c3867a995db267a8d95f143047a4f"
+        "hash": "6d78ef9b87db64e6d43d2b6ce7d8972cada66221d356733cc992b4ccf6059429"
     },
-    "number.txt": {
-        "hash": "87cd084d190e436f147322b90e7384f6a8e0676c99d21ef519ea718e51d45f9c"
+    "numbers.txt": {
+        "hash": "c775e7b757ede630cd0aa1113bd102661ab38829ca52a6422ab782862f268646"
     }
 }
