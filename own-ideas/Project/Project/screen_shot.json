@@ -1,0 +1,11 @@
+{
+    "bob.txt": {
+        "hash": "3d98a9892ea1e0d96a0da04ab93d068db7a499e0aa18049c0684601e1e045959"
+    },
+    "important_stuff.txt": {
+        "hash": "6d78ef9b87db64e6d43d2b6ce7d8972cada66221d356733cc992b4ccf6059429"
+    },
+    "numbers.txt": {
+        "hash": "c775e7b757ede630cd0aa1113bd102661ab38829ca52a6422ab782862f268646"
+    }
+}
