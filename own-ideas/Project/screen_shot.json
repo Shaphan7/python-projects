@@ -1,11 +1,47 @@
 {
     "bob.txt": {
-        "hash": "3d98a9892ea1e0d96a0da04ab93d068db7a499e0aa18049c0684601e1e045959"
+        "hash": "3d98a9892ea1e0d96a0da04ab93d068db7a499e0aa18049c0684601e1e045959",
+        "recorded_date": 1792501449949334000,
+        "recorded_size": 16
+    },
+    "experiment.py": {
+        "hash": "7be3c7b3543fc5abe62185705ad0b33fb47d24467aa0947f45aba296b447d816",
+        "recorded_date": 1792734709919948900,
+        "recorded_size": 184
     },
     "important_stuff.txt": {
-        "hash": "6d78ef9b87db64e6d43d2b6ce7d8972cada66221d356733cc992b4ccf6059429"
+        "hash": "6d78ef9b87db64e6d43d2b6ce7d8972cada66221d356733cc992b4ccf6059429",
+        "recorded_date": 1792505211227780000,
+        "recorded_size": 30
     },
     "numbers.txt": {
-        "hash": "c775e7b757ede630cd0aa1113bd102661ab38829ca52a6422ab782862f268646"
+        "hash": "95234f027b5da5a09928bde5fc432a8a1e525559cab08b830e8bdff74a9db93a",
+        "recorded_date": 1792690119266398900,
+        "recorded_size": 10
+    },
+    "super.txt": {
+        "hash": "a05ec95b19487212d5a5072b0fc79d7d428089f0e89dcdff084287be4c36e303",
+        "recorded_date": 1792502631417127300,
+        "recorded_size": 25
+    },
+    "test_folder/and_another/something_else.txt": {
+        "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "recorded_date": 1792734269080921100,
+        "recorded_size": 0
+    },
+    "test_folder/and_another/sonthing.txt": {
+        "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "recorded_date": 1792734259778185000,
+        "recorded_size": 0
+    },
+    "test_folder/another_folder/apolo.txt": {
+        "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "recorded_date": 1792734281392788800,
+        "recorded_size": 0
+    },
+    "test_folder/another_folder/xenophage.txt": {
+        "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "recorded_date": 1792734290126468200,
+        "recorded_size": 0
     }
 }
